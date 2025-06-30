@@ -3,7 +3,6 @@ Aestus-automatizacijski testovi
 
 ## 1. About The App
 
-Opis aplikacija
 Parra app
 ## 2. Getting Started
 
